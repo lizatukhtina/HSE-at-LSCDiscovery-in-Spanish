@@ -19,7 +19,6 @@ Our team used 3 following approaches:
 
 — **code_embeddings**: code for BERT + clustering approach<br>
 — **profiling_with_permutations**: code for grammatical profiling + permutation tests approach<br>
-— **results**: our submission files<br>
 
 The source code for grammatical profiling approach can be found here:<br>
 https://github.com/glnmario/semchange-profiling
