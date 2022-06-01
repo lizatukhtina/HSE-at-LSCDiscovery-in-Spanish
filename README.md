@@ -15,6 +15,18 @@ Our team used 3 following approaches:
 2. Grammatical profiling
 3. Grammatical profiling enhanced with permutation-based statistical tests
 
+## Data
+
+Download corpora:
+```bash
+wget https://users.dcc.uchile.cl/~fzamora/old_corpus.tar.bz2
+wget https://users.dcc.uchile.cl/~fzamora/modern_corpus.tar.bz2
+```
+Download target words:
+```bash
+wget https://users.dcc.uchile.cl/~fzamora/targets.tsv
+```
+
 ## Directories
 
 — **code_embeddings**: code for BERT + clustering approach<br>
