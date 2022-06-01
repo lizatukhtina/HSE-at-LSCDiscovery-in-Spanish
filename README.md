@@ -22,7 +22,7 @@ Download corpora:
 wget https://users.dcc.uchile.cl/~fzamora/old_corpus.tar.bz2
 wget https://users.dcc.uchile.cl/~fzamora/modern_corpus.tar.bz2
 ```
-Download target words:
+Download target words from evaluation phase:
 ```bash
 wget https://users.dcc.uchile.cl/~fzamora/targets.tsv
 ```
