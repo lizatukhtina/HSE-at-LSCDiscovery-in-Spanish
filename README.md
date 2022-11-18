@@ -30,7 +30,7 @@ wget https://users.dcc.uchile.cl/~fzamora/targets.tsv
 ## Directories
 
 — **code_embeddings**: code for BERT + clustering approach<br>
-— **profiling_with_permutations**: code for grammatical profiling + permutation tests approach<br>
+— **profiling_with_permutations**: code for grammatical profiling + permutation tests approach (will be added soon)<br>
 
 The source code for grammatical profiling approach can be found here:<br>
 https://github.com/glnmario/semchange-profiling
